@@ -1,0 +1,7 @@
+C:\Users\Gael Campuzano\source\repos\FundamentosPOO\bin\Debug\FundamentosPOO.exe.config
+C:\Users\Gael Campuzano\source\repos\FundamentosPOO\bin\Debug\FundamentosPOO.exe
+C:\Users\Gael Campuzano\source\repos\FundamentosPOO\bin\Debug\FundamentosPOO.pdb
+C:\Users\Gael Campuzano\source\repos\FundamentosPOO\obj\Debug\FundamentosPOO.csproj.AssemblyReference.cache
+C:\Users\Gael Campuzano\source\repos\FundamentosPOO\obj\Debug\FundamentosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Gael Campuzano\source\repos\FundamentosPOO\obj\Debug\FundamentosPOO.exe
+C:\Users\Gael Campuzano\source\repos\FundamentosPOO\obj\Debug\FundamentosPOO.pdb
